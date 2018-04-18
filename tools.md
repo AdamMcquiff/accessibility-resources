@@ -1,6 +1,8 @@
 
 # Accessibility Tools
 
+A collection of useful tools to test and/or validate the accessibility of an application.
+
 ## CLI Audit Tools
 
 * [Pa11y](https://github.com/pa11y/pa11y) by Rowan Manning and various contributors
