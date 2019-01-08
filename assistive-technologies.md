@@ -5,6 +5,7 @@ A collection of tools commonly used by users with accessibility requirements.
 ## Screen Readers
 
 * [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) by [Freedom Scientific](http://www.freedomscientific.com/)
+* [ChromeVox (Chrome Extension)](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en) by [Google Chrome](https://www.google.com/chrome/)
 
 ## Magnifier/Reader 
 
