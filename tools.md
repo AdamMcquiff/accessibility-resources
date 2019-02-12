@@ -26,6 +26,10 @@ A collection of useful tools to test and/or validate the accessibility of a web 
 * [Color Oracle](http://www.colororacle.org/) by Bernie Jenny
 * [Colour Contrast Analyser](https://developer.paciellogroup.com/resources/contrastanalyser/) by The Paciello Group
 
+## Document Outline
+
+* [HTML5 Outliner (Chrome extension)](https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo/related?hl=en) by Dominykas Blyžė.
+
 ## Emulation Tools
 
 * [Sim Daltonism](https://itunes.apple.com/ca/app/sim-daltonism/id693112260?ls=1&mt=12&en) (colour blindness emulation) by Michel Fortin 
